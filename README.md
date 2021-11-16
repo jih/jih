@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jih, and I work at Stripe.
+- Previously I did interesting stuff at Azure Cosmos DB.
 
 <!---
 - 👀 I’m interested in ...
